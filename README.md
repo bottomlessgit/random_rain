@@ -1,5 +1,5 @@
 # random_rain
-Animation of rain random falling on a blank screen
+Animation of rain random falling on a blank screen  
 ![](https://github.com/bottomlessgit/random_rain/blob/main/random_rain_example.gif)
 
 
