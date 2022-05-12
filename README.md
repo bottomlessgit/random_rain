@@ -16,7 +16,9 @@ The file containing the executable code is the "rain.py" file. To run the progra
 
 
 ## Settings Manipulation
-The settings.py file contains all the settings for the game. You can change the default falling speed of raindrops, how that speed scales with size, change the frequency distribution of how often larger or smaller raindrops fall to bias bigger or smaller drops, change the range of sizes of raindrops, and if you like, add your own image and change the raindrop filename so that it's that image falling instead of raindrops. Have fun! 
+The settings.py file contains all the settings for the game. Since the program's running speed and fps will depend on the computational power of the computer running it, you may want to change the settings for more natural-looking rain. You can change the default falling speed of raindrops, how that speed scales with size, change the frequency distribution of how often larger or smaller raindrops fall to bias bigger or smaller drops, change the range of sizes of raindrops, and if you like, add your own image and change the raindrop filename so that it's that image falling instead of raindrops.  
+![]()  
+Have fun! 
 
 
 ## Credits
